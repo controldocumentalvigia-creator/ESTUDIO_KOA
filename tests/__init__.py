@@ -1,1 +1,1 @@
-# Pruebas automáticas del proyecto KOA Analytics.
+# Paquete tests
