@@ -1,1 +1,1 @@
-# Módulos de visualización del tablero KOA.
+# Paquete dashboard
